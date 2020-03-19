@@ -1,0 +1,2 @@
+/**/*.js
+/lol/eee.kppk

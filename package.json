@@ -1,0 +1,22 @@
+{
+  "name": "task14.03.2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js --path-dir='/home/mi/Рабочий стол/homeWork/task_1_sber/paths/test_fake' --path-search='/home/mi/Рабочий стол/homeWork/task_1_sber/paths/search.txt' --path-ignore='/home/mi/Рабочий стол/homeWork/task_1_sber/paths/.gitignore' "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.1"
+  },
+  "dependencies": {
+    "args-parser": "^1.1.0",
+    "fs": "0.0.1-security",
+    "globby": "^11.0.0"
+  }
+}
